@@ -2,8 +2,7 @@ const String tableNotes = 'notes';
 
 class NoteFields {
   static final List<String> values = [
-    /// Add all fields
-    id, title, description, time
+    id, title,description, time
   ];
 
   static const String id = '_id';
